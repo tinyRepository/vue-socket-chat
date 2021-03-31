@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "express": "^4.17.1",
+    "nuxt": "^2.15.3",
+    "socket.io": "^4.0.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.3",
